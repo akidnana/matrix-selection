@@ -1,0 +1,2 @@
+Aplikasi ini dikembangkan untuk memvisualisasikan dan menganalisis secara spasial Indeks Perkembangan Inklusif dan determinannya pada kabupaten dan kota di Jawa Tengah tahun 2017 yang disertai dengan optimasi matriks pembobot spasial.
+Gunakan panel navigasi di samping untuk mengakses fitur visualisasi data melalui tabel dan peta, pemilihan skema ketetanggaan dengan metode boosting, hasil pemodelan spatial lag, serta efek langsung dan tidak langsung.

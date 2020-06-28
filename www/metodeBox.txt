@@ -1,0 +1,6 @@
+Pada aplikasi ini disediakan skema-skema kustomisasi ketetanggaan yang dihasilkan melalui kombinasi skema ketetanggaan konvensional dengan variabel sosioekonomi. 
+Skema ketetanggaan konvensional yang digunakan terdiri atas K-Nearest Neighbour (KNN), invers jarak, kontiguitas Queen, dan kontiguitas Rook. 
+Masing-masing dari skema ketetanggaan konvensional tersebut dikombinasikan dengan tiga matriks variabel sosioekonomi yang terdiri atas migrasi, TPT, dan PDRB. 
+Dengan begitu, jumlah keseluruhan skema kustomisasi ketetanggaan adalah 12 (dua belas) skema. Pada masing-masing skema, disusun sejumlah alternatif matriks pembobot spasial
+yang kemudian dilakukan pemilihan matriks secara simultan menggunakan metode boosting dengan kriteria AIC dan gMDL. Selanjutnya, matriks terpilih diterapkan pada pemodelan spatial lag.
+   
